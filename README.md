@@ -1,4 +1,4 @@
-# Petr_Engr
+# Petroleum Engineering TTU
 Included are a couple projects from my masters program at Texas Tech University:
 
 1. Master's Report
