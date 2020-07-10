@@ -1,5 +1,7 @@
 # Petroleum Engineering TTU
-Included are a couple projects from my masters program at Texas Tech University:
+In this project, for my Advanced Reservoir Simulation course, I created a numerical simulation program in MATLAB using IMPES (Implicit Pressure-Explicit Saturation) method for pressure draw-down in a hypothetical, 2D variable grid, shale gas reservoir block having a fracture. The results were verified by running the parameters through a commercial simulator (Eclipse).
+
+Also inclued is my Master's Report from Texas Tech University, a case study on the Wolfcamp formation in the Permian Basin.
 
 <h2>1. Master's Report</h2>
 <h2>2. PETR5309 Adv. Reservoir Engineering project:</h2>
